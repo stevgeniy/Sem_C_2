@@ -9,4 +9,4 @@ if (max < a2)
     max = a2;
 }
 
-Console.WriteLine($"Максимальная цифра в числе {num} -> {max}");
+Console.WriteLine($"Максимальная цифра в числе {num} это -> {max}");
