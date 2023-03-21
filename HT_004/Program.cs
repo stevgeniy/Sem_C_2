@@ -17,8 +17,9 @@ for (int j = 0; j < length / 2; j++)
         Console.WriteLine("Не полиндром");
         break;
     }
-    
+    else 
+    {
+        Console.Clear();
+        Console.WriteLine($"{text} - Полиндром");
+    }
 }
-
-
-Console.WriteLine("Полиндром");
