@@ -32,6 +32,5 @@ double GetDegreeNumbers (double numberB, double numberA)
 
    return sum;
 
-
 }
 
